@@ -4,7 +4,7 @@ title: Runney Privacy Policy
 
 # Privacy Policy — Runney
 
-*Last updated: [DATE]*
+*Last updated: 15-07-2026*
 
 ## Overview
 
