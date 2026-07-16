@@ -4,7 +4,7 @@ title: Runney Privacy Policy
 
 # Privacy Policy — Runney
 
-*Last updated: 15-07-2026*
+*Last updated: 16-07-2026*
 
 ## Overview
 
@@ -22,6 +22,22 @@ granted through Apple's standard Health access prompt:
 
 Runney does **not** request permission to write or modify any data in Apple Health.
 
+## Subscriptions & Purchases
+
+Runney offers an optional "Runney Pro" subscription (monthly or yearly, with a free
+trial on the yearly plan) that unlocks additional features. All payment processing is
+handled entirely by Apple through the App Store — Runney has no payment system, server,
+or database of its own, and never sees or stores your payment details.
+
+To check whether you have an active subscription, Runney reads your purchase status
+directly from Apple's on-device StoreKit framework. This check happens locally and isn't
+sent to any server we operate. Apple's own systems retain a record of your purchase (as
+they do for any App Store purchase) under your Apple ID — see Apple's own Privacy Policy
+for how they handle that.
+
+You can view, manage, or cancel your subscription at any time via your Apple ID Account
+Settings, on your device or at reportaproblem.apple.com.
+
 ## What Runney stores
 
 - Your running data, as read from Apple Health, is used **only on your device** to
@@ -34,8 +50,10 @@ Runney does **not** request permission to write or modify any data in Apple Heal
 ## What Runney does not do
 
 - Runney does not create a user account and does not require sign-up or login.
-- Runney does not send your health data, workouts, or any personal information to any
-  server. There is no backend — all calculations happen on your device.
+- Runney does not operate any server or backend of its own. Your health data, workouts,
+  and personal information never leave your device to reach us — all calculations happen
+  locally. (Subscription payments are the one exception where data passes through
+  Apple's own systems, as described above — never through a server we operate.)
 - Runney does not use third-party analytics, advertising, or tracking SDKs.
 - Runney does not share, sell, or transfer your data to any third party.
 
@@ -61,11 +79,11 @@ collected from any user, regardless of age.
 ## Changes to this policy
 
 If Runney's data practices change in a future update (for example, if a feature is added
-that requires a server), this policy will be updated accordingly, and the "Last updated"
-date above will reflect that.
+that requires a server we operate), this policy will be updated accordingly, and the
+"Last updated" date above will reflect that.
 
 ## Contact
 
 If you have questions about this policy or how Runney handles data, contact:
 
-[remcoubd@gmail.com]
+remcoudb@gmail.com
