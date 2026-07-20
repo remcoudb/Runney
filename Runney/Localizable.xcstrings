@@ -1,0 +1,4714 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "km": {
+      "comment": "Abbreviation for kilometers, shown after a distance value",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "km"
+          }
+        }
+      }
+    },
+    "mi": {
+      "comment": "Abbreviation for miles, shown after a distance value",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "mi"
+          }
+        }
+      }
+    },
+    "Kilometers": {
+      "comment": "Distance unit option in settings",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kilometers"
+          }
+        }
+      }
+    },
+    "Miles": {
+      "comment": "Distance unit option in settings",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mijl"
+          }
+        }
+      }
+    },
+    "Couch Potato": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couch Potato"
+          }
+        }
+      }
+    },
+    "Fast Walker": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wandelaar met Haast"
+          }
+        }
+      }
+    },
+    "Pavement Jumper": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stoeprand Springer"
+          }
+        }
+      }
+    },
+    "Jogger Recruit": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jogger in Opleiding"
+          }
+        }
+      }
+    },
+    "Distance Apprentice": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kilometer Vreter"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Street Navigator": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stratengids"
+          }
+        }
+      }
+    },
+    "Weather Seeker": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weer- en Windbestendig"
+          }
+        }
+      }
+    },
+    "Hill Charger": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Heuvel Bestormer"
+          }
+        }
+      }
+    },
+    "Park Knight": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Parken Ridder"
+          }
+        }
+      }
+    },
+    "5K Vanguard": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "De 5K Veteraan"
+          }
+        }
+      }
+    },
+    "Shadow Runner": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schaduw Renner"
+          }
+        }
+      }
+    },
+    "Tarmac Shredder": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Asfalt Verscheurder"
+          }
+        }
+      }
+    },
+    "Cadence Keeper": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cadans Bewaker"
+          }
+        }
+      }
+    },
+    "Pace Tamer": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tempo Temmer"
+          }
+        }
+      }
+    },
+    "10K Commander": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "De 10K Commandeur"
+          }
+        }
+      }
+    },
+    "Aero Dasher": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Windvanger"
+          }
+        }
+      }
+    },
+    "Unstoppable": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onstuitbaar"
+          }
+        }
+      }
+    },
+    "Street Legend": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Straat Legende"
+          }
+        }
+      }
+    },
+    "Trail Blazer": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trail Zoeker"
+          }
+        }
+      }
+    },
+    "Half Marathon Champion": {
+      "comment": "Level title",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Halve Marathon Kampioen"
+          }
+        }
+      }
+    },
+    "Distance per week": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afstand per week"
+          }
+        }
+      },
+      "comment": "Goal type option"
+    },
+    "Distance per month": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afstand per maand"
+          }
+        }
+      },
+      "comment": "Goal type option"
+    },
+    "Times per week": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keer per week"
+          }
+        }
+      },
+      "comment": "Goal type option"
+    },
+    "x": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "x"
+          }
+        }
+      },
+      "comment": "Suffix for a count-based goal, e.g. '3x per week'"
+    },
+    "this week": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "deze week"
+          }
+        }
+      },
+      "comment": "Race readiness longest run timing"
+    },
+    "this month": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "deze maand"
+          }
+        }
+      },
+      "comment": "Goal progress period label"
+    },
+    "Goal": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Doel"
+          }
+        }
+      },
+      "comment": "Label before a goal value, e.g. 'Goal: 20 km'"
+    },
+    "Cream": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Crème"
+          }
+        }
+      },
+      "comment": "Background theme option"
+    },
+    "Mint": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mint"
+          }
+        }
+      },
+      "comment": "Background theme option"
+    },
+    "Sky Blue": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hemelsblauw"
+          }
+        }
+      },
+      "comment": "Background theme option"
+    },
+    "Lavender": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lavendel"
+          }
+        }
+      },
+      "comment": "Background theme option"
+    },
+    "Blush": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Blush"
+          }
+        }
+      },
+      "comment": "Background theme option"
+    },
+    "Profile": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Profiel"
+          }
+        }
+      }
+    },
+    "Your name": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jouw naam"
+          }
+        }
+      }
+    },
+    "Name": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Naam"
+          }
+        }
+      }
+    },
+    "This is the name used in the greeting on Home.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dit is de naam die gebruikt wordt bij de begroeting op Home."
+          }
+        }
+      }
+    },
+    "Distance unit": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eenheid"
+          }
+        }
+      }
+    },
+    "Applies to all distances and paces shown in the app.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geldt voor alle afstanden en tempo's die in de app getoond worden."
+          }
+        }
+      }
+    },
+    "Personal goal": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Persoonlijk doel"
+          }
+        }
+      }
+    },
+    "Shown as a separate progress bar on Home.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zichtbaar als aparte voortgangsbalk op Home."
+          }
+        }
+      }
+    },
+    "Race goal": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wedstrijddoel"
+          }
+        }
+      }
+    },
+    "Remove race goal": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wedstrijddoel verwijderen"
+          }
+        }
+      }
+    },
+    "Set a race goal": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stel een wedstrijddoel in"
+          }
+        }
+      }
+    },
+    "Determines your race readiness score on Home and Stats.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bepaalt je racegereedheid-score op Home en Stats."
+          }
+        }
+      }
+    },
+    "Badges": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Badges"
+          }
+        }
+      },
+      "comment": "Pro feature title"
+    },
+    "View your earned milestones": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bekijk je behaalde mijlpalen"
+          }
+        }
+      }
+    },
+    "Weekly recap": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wekelijkse samenvatting"
+          }
+        }
+      }
+    },
+    "A notification every Sunday at 8 PM that your weekly recap is ready.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elke zondag om 20:00 een melding dat je wekelijkse samenvatting klaarstaat."
+          }
+        }
+      }
+    },
+    "Notifications are off": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meldingen staan uit"
+          }
+        }
+      }
+    },
+    "Go to Settings": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Naar Instellingen"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Annuleren"
+          }
+        }
+      }
+    },
+    "Turn on notifications for Runney in Settings to receive the weekly recap.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zet meldingen aan voor Runney in Instellingen om de wekelijkse samenvatting te ontvangen."
+          }
+        }
+      }
+    },
+    "Background color": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Achtergrondkleur"
+          }
+        }
+      }
+    },
+    "Applies to the whole app.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geldt voor de hele app."
+          }
+        }
+      }
+    },
+    "Restart onboarding (test)": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onboarding opnieuw doorlopen (test)"
+          }
+        }
+      }
+    },
+    "Your goal": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jouw doel"
+          }
+        }
+      }
+    },
+    "Welcome to Runney": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Welkom bij Runney"
+          }
+        }
+      }
+    },
+    "Running, but as a game. Build your stamina, consistency, and speed, level up, and collect badges along the way.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hardlopen, maar dan als spel. Bouw je stamina, consistentie en snelheid op, groei in level, en verzamel badges onderweg."
+          }
+        }
+      }
+    },
+    "What should we call you?": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoe mogen we je noemen?"
+          }
+        }
+      }
+    },
+    "Four pillars, one goal": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vier onderdelen, één doel"
+          }
+        }
+      }
+    },
+    "Stamina": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stamina"
+          }
+        }
+      }
+    },
+    "Grows with your weekly kilometers.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Groeit door je wekelijkse kilometers."
+          }
+        }
+      }
+    },
+    "Consistency": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Consistentie"
+          }
+        }
+      }
+    },
+    "Grows by running regularly, week after week.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Groeit door regelmatig te lopen, week na week."
+          }
+        }
+      }
+    },
+    "Speed": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snelheid"
+          }
+        }
+      }
+    },
+    "Grows with your pace and tempo runs.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Groeit door je tempo en tempolopen."
+          }
+        }
+      }
+    },
+    "Level": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Level"
+          }
+        }
+      }
+    },
+    "Grows permanently with every kilometer you run.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Groeit blijvend met elke kilometer die je loopt."
+          }
+        }
+      }
+    },
+    "Set a goal": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stel een doel"
+          }
+        }
+      }
+    },
+    "You can adjust this later in Profile.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Later aan te passen via Profiel."
+          }
+        }
+      }
+    },
+    "Connect to Apple Health": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verbind met Apple Health"
+          }
+        }
+      }
+    },
+    "We read your running activities from Apple Health to calculate your progress. Your data stays on your device.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "We halen je hardloopactiviteiten op uit Apple Health om je voortgang te berekenen. Je gegevens blijven op je toestel."
+          }
+        }
+      }
+    },
+    "Set up later": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Later instellen"
+          }
+        }
+      },
+      "comment": "Onboarding secondary button"
+    },
+    "Back": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terug"
+          }
+        }
+      },
+      "comment": "Onboarding secondary button"
+    },
+    "Get started": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beginnen"
+          }
+        }
+      },
+      "comment": "Onboarding primary button"
+    },
+    "Next": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Volgende"
+          }
+        }
+      },
+      "comment": "Onboarding primary button"
+    },
+    "Connect and start": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verbind en start"
+          }
+        }
+      },
+      "comment": "Onboarding primary button"
+    },
+    "Good morning": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Goedemorgen"
+          }
+        }
+      },
+      "comment": "Time-of-day greeting"
+    },
+    "Good afternoon": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Goedemiddag"
+          }
+        }
+      },
+      "comment": "Time-of-day greeting"
+    },
+    "Good evening": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Goedenavond"
+          }
+        }
+      },
+      "comment": "Time-of-day greeting"
+    },
+    "Current form": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Huidige vorm"
+          }
+        }
+      }
+    },
+    "Just starting": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Net begonnen"
+          }
+        }
+      },
+      "comment": "Current form tier label"
+    },
+    "Building up": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aan het opbouwen"
+          }
+        }
+      },
+      "comment": "Current form tier label"
+    },
+    "Solid form": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Solide vorm"
+          }
+        }
+      },
+      "comment": "Current form tier label"
+    },
+    "Strong form": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sterke vorm"
+          }
+        }
+      },
+      "comment": "Current form tier label"
+    },
+    "Peak form": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Topvorm"
+          }
+        }
+      },
+      "comment": "Current form tier label"
+    },
+    "Current form is the average of your Stamina, Consistency, and Speed scores — a quick overall picture of where you stand right now.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Huidige vorm is het gemiddelde van je Stamina-, Consistentie- en Snelheidsscore — een snel totaalbeeld van hoe je er nu voor staat."
+          }
+        }
+      }
+    },
+    "Levels": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Niveaus"
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Klaar"
+          }
+        }
+      }
+    },
+    "Today": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vandaag"
+          }
+        }
+      },
+      "comment": "Tab label"
+    },
+    "This week": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deze week"
+          }
+        }
+      },
+      "comment": "Week label, current week"
+    },
+    "No run yet today — time to give your stamina a boost?": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nog geen run vandaag — tijd om je stamina een boost te geven?"
+          }
+        }
+      }
+    },
+    "Tempo run": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tempoloop"
+          }
+        }
+      },
+      "comment": "Effort type badge"
+    },
+    "Interval": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Interval"
+          }
+        }
+      },
+      "comment": "Effort type badge"
+    },
+    "No runs yet this week — a good moment to get started!": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nog geen runs deze week — een mooi moment om te beginnen!"
+          }
+        }
+      }
+    },
+    "run": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "run"
+          }
+        }
+      },
+      "comment": "Singular"
+    },
+    "runs": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "runs"
+          }
+        }
+      },
+      "comment": "Plural"
+    },
+    "Highest level reached": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoogste level bereikt"
+          }
+        }
+      },
+      "comment": "Shown when max level is reached"
+    },
+    "week": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "week"
+          }
+        }
+      },
+      "comment": "Singular"
+    },
+    "weeks": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "weken"
+          }
+        }
+      },
+      "comment": "Plural"
+    },
+    "Progress": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voortgang"
+          }
+        }
+      },
+      "comment": "Stats tab"
+    },
+    "Run Stats": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Loopstats"
+          }
+        }
+      },
+      "comment": "Stats tab"
+    },
+    "Stats": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stats"
+          }
+        }
+      }
+    },
+    "This year": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dit jaar"
+          }
+        }
+      },
+      "comment": "Run stats tile label"
+    },
+    "Best month": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beste maand"
+          }
+        }
+      },
+      "comment": "Run stats tile label"
+    },
+    "Farthest run": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verste run"
+          }
+        }
+      },
+      "comment": "Run stats tile label"
+    },
+    "Fastest run": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snelste run"
+          }
+        }
+      },
+      "comment": "Run stats tile label"
+    },
+    "Personal Records": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Persoonlijke records"
+          }
+        }
+      },
+      "comment": "Pro feature title"
+    },
+    "Longest run, fastest pace, best week, and more": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Langste run, snelste tempo, beste week en meer"
+          }
+        }
+      }
+    },
+    "Last 8 weeks": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Laatste 8 weken"
+          }
+        }
+      }
+    },
+    "Longest run": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Langste run"
+          }
+        }
+      },
+      "comment": "Personal record title"
+    },
+    "Fastest pace": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snelste tempo"
+          }
+        }
+      },
+      "comment": "Personal record title"
+    },
+    "Fastest 5K": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snelste 5K"
+          }
+        }
+      },
+      "comment": "Personal record title"
+    },
+    "Fastest 10K": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snelste 10K"
+          }
+        }
+      },
+      "comment": "Personal record title"
+    },
+    "Fastest Half Marathon": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snelste Halve Marathon"
+          }
+        }
+      },
+      "comment": "Personal record title"
+    },
+    "Fastest Marathon": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snelste Marathon"
+          }
+        }
+      },
+      "comment": "Personal record title"
+    },
+    "Best week (kilometers)": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beste week (kilometers)"
+          }
+        }
+      },
+      "comment": "Personal record title"
+    },
+    "Most runs in one week": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meeste runs in één week"
+          }
+        }
+      },
+      "comment": "Personal record title"
+    },
+    "Week of": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Week van"
+          }
+        }
+      },
+      "comment": "Prefix before a date, e.g. 'Week of Mar 12, 2026'"
+    },
+    "All-time total": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Totaal ooit gelopen"
+          }
+        }
+      },
+      "comment": "Personal records summary"
+    },
+    "All-time runs": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Runs ooit"
+          }
+        }
+      },
+      "comment": "Personal records summary"
+    },
+    "No records yet": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nog geen records"
+          }
+        }
+      }
+    },
+    "Once you've logged a few runs, your personal records will show up here.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zodra je een paar runs gelopen hebt, verschijnen hier je persoonlijke records."
+          }
+        }
+      }
+    },
+    "Runs": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Runs"
+          }
+        }
+      }
+    },
+    "Fetching runs…": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Runs ophalen…"
+          }
+        }
+      }
+    },
+    "No runs found yet": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nog geen runs gevonden"
+          }
+        }
+      }
+    },
+    "Once you have a running activity in Apple Health, it'll show up here.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zodra je een hardloopactiviteit in Apple Health hebt staan, verschijnt die hier."
+          }
+        }
+      }
+    },
+    "Couldn't fetch runs": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kon runs niet ophalen"
+          }
+        }
+      }
+    },
+    "Tempo + Interval": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tempo + interval"
+          }
+        }
+      },
+      "comment": "Effort type badge"
+    },
+    "Pace": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tempo"
+          }
+        }
+      }
+    },
+    "Duration": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Duur"
+          }
+        }
+      },
+      "comment": "Run stat label"
+    },
+    "Calories": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calorieën"
+          }
+        }
+      },
+      "comment": "Run stat label"
+    },
+    "Heart Rate": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hartslag"
+          }
+        }
+      },
+      "comment": "Run stat label"
+    },
+    "Pace per kilometer": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tempo per kilometer"
+          }
+        }
+      }
+    },
+    "This was a tempo run": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dit was een tempoloop"
+          }
+        }
+      }
+    },
+    "This was an interval training": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dit was een intervaltraining"
+          }
+        }
+      }
+    },
+    "Contribution to your stats": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bijdrage aan je stats"
+          }
+        }
+      }
+    },
+    "+%@ toward your weekly volume": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+%@ voor je weekvolume"
+          }
+        }
+      },
+      "comment": "e.g. '+5.02 km toward your weekly volume'"
+    },
+    "Your %@ run this week": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je %@ run deze week"
+          }
+        }
+      },
+      "comment": "e.g. 'Your 2nd run this week'"
+    },
+    "Speed bonus active through %@": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snelheidsbonus actief t/m %@"
+          }
+        }
+      },
+      "comment": "e.g. 'Speed bonus active through Mar 12, 2026'"
+    },
+    "Doesn't count — this run was from before you first opened the app": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Telt niet mee — deze run was van vóór je eerste keer openen van de app"
+          }
+        }
+      }
+    },
+    "Distance": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afstand"
+          }
+        }
+      }
+    },
+    "Cumulative": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cumulatief"
+          }
+        }
+      },
+      "comment": "Badge category"
+    },
+    "Effort": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Inspanning"
+          }
+        }
+      },
+      "comment": "Badge category"
+    },
+    "Special": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bijzonder"
+          }
+        }
+      },
+      "comment": "Badge category"
+    },
+    "This Year": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dit Jaar"
+          }
+        }
+      },
+      "comment": "Badge category"
+    },
+    "First 5K": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eerste 5K"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run 5 kilometers in one go.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ren in één keer 5 kilometer."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "First 10K": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eerste 10K"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run 10 kilometers in one go.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ren in één keer 10 kilometer."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "First 15K": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eerste 15K"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run 15 kilometers in one go.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ren in één keer 15 kilometer."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Half Marathon": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Halve Marathon"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run 21.1 kilometers in one go.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ren in één keer 21,1 kilometer."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Marathon": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Marathon"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run the full 42.2 kilometers in one go.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ren in één keer de volledige 42,2 kilometer."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "First Kilometer": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eerste Kilometer"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run your very first full kilometer.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ren je allereerste volledige kilometer."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "20K Runner": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "20K-loper"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run 20 kilometers in one go.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ren in één keer 20 kilometer."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Ultra Runner": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ultraloper"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run 50 kilometers in one go — ultra territory.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ren in één keer 50 kilometer — ultra-territorium."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "50 km Club": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "50 km club"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run a total of 50 kilometers.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In totaal 50 kilometer gelopen."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "100 km Club": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "100 km club"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run a total of 100 kilometers.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In totaal 100 kilometer gelopen."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "250 km Club": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "250 km club"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run a total of 250 kilometers.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In totaal 250 kilometer gelopen."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "500 km Club": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "500 km club"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run a total of 500 kilometers.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In totaal 500 kilometer gelopen."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "1000 km Club": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1000 km club"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "A total of 1000 kilometers — a true endurance runner.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In totaal 1000 kilometer — een ware duurloper."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "2000 km Club": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2000 km club"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run a total of 2000 kilometers.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In totaal 2000 kilometer gelopen."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "5000 km Club": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "5000 km club"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "A total of 5000 kilometers — you've basically crossed a continent.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In totaal 5000 kilometer — je hebt zo'n beetje een continent doorkruist."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "First Tempo Run": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eerste Tempoloop"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Complete your first tempo run.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voltooi je eerste tempoloop."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "First Interval Training": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eerste Intervaltraining"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Complete your first interval training.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voltooi je eerste intervaltraining."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Tempo Trainer": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tempo Trainer"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Complete a total of 10 tempo runs.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voltooi in totaal 10 tempolopen."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Speedy Five": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vlotte Vijf"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run at least 1 km faster than 5:00/km.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ren minstens 1 km sneller dan 5:00/km."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "On Pace": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Op Tempo"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run at least 1 km at or faster than the goal pace of 4:00/km.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ren minstens 1 km op of sneller dan het doeltempo van 4:00/km."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Four in a Row": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vier op een Rij"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Keep your consistency going for 4 weeks in a row.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Houd 4 weken op rij je consistentie vol."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Half a Year Strong": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Half Jaar Vol"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Keep your consistency going for 26 weeks in a row.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Houd 26 weken op rij je consistentie vol."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Reach level 5.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bereik level 5."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Max Level": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Max Level"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Reach the highest level: Half Marathon Champion.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bereik het hoogste level: Halve Marathon Kampioen."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Early Bird": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vroege Vogel"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Complete a run that starts before 7:00 AM.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voltooi een run die vóór 7:00 uur begint."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Night Owl": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nachtuil"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Complete a run that starts after 9:00 PM.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voltooi een run die na 21:00 uur begint."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Weekend Warrior": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weekendstrijder"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Complete a run on the weekend.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voltooi een run in het weekend."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "New Year's Run": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nieuwjaarsloop"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Kick off the year with a run on January 1st.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trap het jaar af met een run op 1 januari."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Double Day": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dubbele Dag"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Complete two runs on the same day.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voltooi twee runs op dezelfde dag."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "The Comeback": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "De Terugkomer"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Return with a new run after at least 21 days of rest.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kom terug met een nieuwe run na minstens 21 dagen rust."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "500 km in a Year": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "500 km in een Jaar"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run a total of 500 kilometers in one calendar year.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Loop in één kalenderjaar in totaal 500 kilometer."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "1000 km in a Year": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1000 km in een Jaar"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run a total of 1000 kilometers in one calendar year.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Loop in één kalenderjaar in totaal 1000 kilometer."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "2000 km in a Year": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2000 km in een Jaar"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run a total of 2000 kilometers in one calendar year — an impressive annual volume.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Loop in één kalenderjaar in totaal 2000 kilometer — een indrukwekkend jaarvolume."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Fifty Runs in a Year": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vijftig Runs in een Jaar"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Complete 50 runs within one calendar year.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voltooi 50 runs binnen één kalenderjaar."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "A Hundred Runs in a Year": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Honderd Runs in een Jaar"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Complete 100 runs within one calendar year.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voltooi 100 runs binnen één kalenderjaar."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Twelve for Twelve": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Twaalf op Twaalf"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run at least once in every month of a calendar year.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Loop in elke maand van een kalenderjaar minstens één keer."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Spring Runner": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lenteloper"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run 100 kilometers between March and May of the same year.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Loop 100 kilometer tussen maart en mei van hetzelfde jaar."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Summer Warrior": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zomerstrijder"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run 100 kilometers between June and August of the same year.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Loop 100 kilometer tussen juni en augustus van hetzelfde jaar."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Autumn Persister": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Herfstvolhouder"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run 100 kilometers between September and November of the same year.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Loop 100 kilometer tussen september en november van hetzelfde jaar."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Winter Toughness": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wintertaaiheid"
+          }
+        }
+      },
+      "comment": "Badge title"
+    },
+    "Run 100 kilometers in December, January, or February of the same year.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Loop 100 kilometer in december, januari of februari van hetzelfde jaar."
+          }
+        }
+      },
+      "comment": "Badge description"
+    },
+    "Keep running to unlock more.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Blijf lopen om er meer te ontgrendelen."
+          }
+        }
+      }
+    },
+    "Not unlocked yet": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nog niet behaald"
+          }
+        }
+      }
+    },
+    "Custom distance": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eigen afstand"
+          }
+        }
+      },
+      "comment": "Race distance option"
+    },
+    "This race has already happened.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deze wedstrijd is al geweest."
+          }
+        }
+      },
+      "comment": "Race readiness status message"
+    },
+    "Almost there! Focus on rest and tapering now, not another big run.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bijna zo ver! Focus nu op rust en afbouwen, niet op nog een grote run."
+          }
+        }
+      },
+      "comment": "Race readiness status message"
+    },
+    "Almost there! Keep moving lightly now and then to stay sharp — going completely still isn't the goal either.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bijna zo ver! Blijf wel af en toe licht lopen om scherp te blijven — helemaal stilzitten is ook niet de bedoeling."
+          }
+        }
+      },
+      "comment": "Race readiness status message"
+    },
+    "You're ready for it!": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je bent er klaar voor!"
+          }
+        }
+      },
+      "comment": "Race readiness status message"
+    },
+    "Well on track — keep up this pace.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Goed op weg — blijf dit tempo volhouden."
+          }
+        }
+      },
+      "comment": "Race readiness status message"
+    },
+    "Still work to do, but there's plenty of time.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nog werk aan de winkel, maar er is tijd genoeg."
+          }
+        }
+      },
+      "comment": "Race readiness status message"
+    },
+    "Time to seriously start building up.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tijd om de opbouw serieus te starten."
+          }
+        }
+      },
+      "comment": "Race readiness status message"
+    },
+    "Was 1 week ago": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was 1 week geleden"
+          }
+        }
+      },
+      "comment": "Race readiness countdown, race already happened"
+    },
+    "Was %d weeks ago": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was %d weken geleden"
+          }
+        }
+      },
+      "comment": "Race readiness countdown, race already happened"
+    },
+    "This week!": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deze week!"
+          }
+        }
+      },
+      "comment": "Race readiness countdown"
+    },
+    "1 week to go": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nog 1 week"
+          }
+        }
+      },
+      "comment": "Race readiness countdown"
+    },
+    "%d weeks to go": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nog %d weken"
+          }
+        }
+      },
+      "comment": "Race readiness countdown"
+    },
+    "How the score is built": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoe de score is opgebouwd"
+          }
+        }
+      }
+    },
+    "Longest training run (last %d weeks)": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Langste training-run (laatste %d weken)"
+          }
+        }
+      },
+      "comment": "Race readiness factor label"
+    },
+    "Weekly volume (last %d weeks)": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wekelijks volume (laatste %d weken)"
+          }
+        }
+      },
+      "comment": "Race readiness factor label"
+    },
+    "%@ of %d %@ target": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ van %d %@ doel"
+          }
+        }
+      },
+      "comment": "e.g. '32.1 km of 36 km target'"
+    },
+    "Consistency score: %d/100": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Consistentie-score: %d/100"
+          }
+        }
+      },
+      "comment": "Race readiness factor detail"
+    },
+    "Race": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wedstrijd"
+          }
+        }
+      }
+    },
+    "Date": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datum"
+          }
+        }
+      },
+      "comment": "Race detail label"
+    },
+    "No training run yet in the last %d weeks · target: %d km": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nog geen training-run in de laatste %d weken · doel: %d km"
+          }
+        }
+      },
+      "comment": "Race readiness longest run detail, empty state"
+    },
+    "1 week ago": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 week geleden"
+          }
+        }
+      },
+      "comment": "Week label"
+    },
+    "%d weeks ago": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d weken geleden"
+          }
+        }
+      },
+      "comment": "Week label"
+    },
+    "%@, %@ · target: %d %@": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@, %@ · doel: %d %@"
+          }
+        }
+      },
+      "comment": "e.g. '16.0 km, 2 weeks ago · target: 17 km'"
+    },
+    "Distance: %.1f %@": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afstand: %.1f %@"
+          }
+        }
+      },
+      "comment": "e.g. 'Distance: 15.0 km'"
+    },
+    "Race date": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wedstrijddatum"
+          }
+        }
+      },
+      "comment": "Date picker label"
+    },
+    "Try an interval training to give your pace a boost.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Probeer eens een intervaltraining om je tempo een zetje te geven."
+          }
+        }
+      },
+      "comment": "Plateau suggestion"
+    },
+    "Build up your weekly kilometers a bit further.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bouw je wekelijkse kilometers een stapje verder op."
+          }
+        }
+      },
+      "comment": "Plateau suggestion"
+    },
+    "Add an extra easy run this week.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voeg een extra rustige run toe deze week."
+          }
+        }
+      },
+      "comment": "Plateau suggestion"
+    },
+    "Your weekly recap is ready — see what you've built up this week.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je wekelijkse samenvatting staat klaar — bekijk wat je deze week hebt opgebouwd."
+          }
+        }
+      },
+      "comment": "Notification body"
+    },
+    "Level up!": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Level omhoog!"
+          }
+        }
+      },
+      "comment": "Celebration title"
+    },
+    "Streak milestone!": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Streak-mijlpaal!"
+          }
+        }
+      },
+      "comment": "Celebration title"
+    },
+    "Badge earned!": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Badge behaald!"
+          }
+        }
+      },
+      "comment": "Celebration title"
+    },
+    "New record!": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nieuw record!"
+          }
+        }
+      },
+      "comment": "Celebration title"
+    },
+    "1 week in a row": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 week op rij"
+          }
+        }
+      },
+      "comment": "Celebration subtitle"
+    },
+    "%d weeks in a row": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d weken op rij"
+          }
+        }
+      },
+      "comment": "Celebration subtitle"
+    },
+    "Continue": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Doorgaan"
+          }
+        }
+      },
+      "comment": "Paywall purchase button"
+    },
+    "How to improve this": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoe verhoog je dit"
+          }
+        }
+      }
+    },
+    "Effective weekly volume": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Effectief weekvolume"
+          }
+        }
+      },
+      "comment": "Stamina detail row"
+    },
+    "Stamina shows how much you've been running lately. We look at your average weekly volume over the last 4 weeks, with more recent weeks weighing more heavily — so your score doesn't crash after a single rest week.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stamina laat zien hoeveel je de laatste tijd hardloopt. We kijken naar je gemiddelde weekvolume over de laatste 4 weken, waarbij recentere weken zwaarder meewegen — zo zakt je score niet meteen keihard na één rustweek."
+          }
+        }
+      },
+      "comment": "Stamina description"
+    },
+    "Build up your weekly kilometers gradually.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bouw je wekelijkse kilometers geleidelijk op."
+          }
+        }
+      },
+      "comment": "Stamina tip"
+    },
+    "One rest week is fine — your score only drops slowly along with it.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eén rustweek is prima — je score daalt maar langzaam mee."
+          }
+        }
+      },
+      "comment": "Stamina tip"
+    },
+    "From 50 km per week you're at the maximum score.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vanaf 50 km per week zit je op de maximale score."
+          }
+        }
+      },
+      "comment": "Stamina tip"
+    },
+    "Runs this week": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Runs deze week"
+          }
+        }
+      },
+      "comment": "Consistency detail row"
+    },
+    "1 week": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 week"
+          }
+        }
+      },
+      "comment": "Streak duration"
+    },
+    "%d weeks": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d weken"
+          }
+        }
+      },
+      "comment": "e.g. '4 weeks'"
+    },
+    "Consistency rewards regularity. Half comes from how often you run this week, the other half from how many weeks in a row you keep it up.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Consistentie beloont regelmaat. De helft komt uit hoe vaak je déze week loopt, de andere helft uit hoeveel weken op rij je dat volhoudt."
+          }
+        }
+      },
+      "comment": "Consistency description"
+    },
+    "Runs this week (max 40)": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Runs deze week (max 40)"
+          }
+        }
+      },
+      "comment": "Score breakdown section title"
+    },
+    "Streak (max 60)": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Streak (max 60)"
+          }
+        }
+      },
+      "comment": "Score breakdown section title"
+    },
+    "Running 3 or more times a week gives the maximum weekly points.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 of meer keer per week lopen geeft het maximale week-punten."
+          }
+        }
+      },
+      "comment": "Consistency tip"
+    },
+    "Every consecutive week builds your streak further — at 12 weeks in a row you're at the maximum.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elke opeenvolgende week bouwt je streak verder op — bij 12 weken op rij zit je op het maximum."
+          }
+        }
+      },
+      "comment": "Consistency tip"
+    },
+    "This week only counts once you hit it, but it doesn't break your streak while it's still ongoing — only a missed, completed week does that.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deze week telt pas mee zodra je 'm haalt, maar breekt je streak niet zolang hij nog loopt — pas een gemiste, afgeronde week doet dat."
+          }
+        }
+      },
+      "comment": "Consistency tip"
+    },
+    "Fastest pace (30 days)": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snelste tempo (30 dagen)"
+          }
+        }
+      },
+      "comment": "Speed detail row"
+    },
+    "Tempo run last 7 days": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tempoloop laatste 7 dagen"
+          }
+        }
+      },
+      "comment": "Speed detail row"
+    },
+    "Interval last 7 days": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Interval laatste 7 dagen"
+          }
+        }
+      },
+      "comment": "Speed detail row"
+    },
+    "Yes": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ja"
+          }
+        }
+      },
+      "comment": "Boolean value"
+    },
+    "No": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nee"
+          }
+        }
+      },
+      "comment": "Boolean value"
+    },
+    "Speed combines your best pace from the last 30 days with bonus points for tempo runs and interval training — that bonus stays active for 7 days after such a run.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snelheid combineert je beste tempo van de laatste 30 dagen met bonuspunten voor tempolopen en intervaltrainingen — die bonus blijft 7 dagen actief nadat je zo'n run gelopen hebt."
+          }
+        }
+      },
+      "comment": "Speed description"
+    },
+    "Pace (max 60)": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tempo (max 60)"
+          }
+        }
+      },
+      "comment": "Score breakdown section title"
+    },
+    "Bonus (max 40)": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bonus (max 40)"
+          }
+        }
+      },
+      "comment": "Score breakdown section title"
+    },
+    "A faster best time over 5 km directly raises your base score.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Een snellere beste tijd op 5 km verhoogt je basisscore direct."
+          }
+        }
+      },
+      "comment": "Speed tip"
+    },
+    "A continuous tempo run of 20+ minutes gives a bonus.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Een aaneengesloten tempoloop van 20+ minuten geeft een bonus."
+          }
+        }
+      },
+      "comment": "Speed tip"
+    },
+    "An interval training with varying pace also gives a bonus.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Een intervaltraining met wisselend tempo geeft ook een bonus."
+          }
+        }
+      },
+      "comment": "Speed tip"
+    },
+    "Title": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Titel"
+          }
+        }
+      },
+      "comment": "Level detail row"
+    },
+    "Total XP": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Totaal XP"
+          }
+        }
+      },
+      "comment": "Level detail row"
+    },
+    "XP in this level": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "XP in dit level"
+          }
+        }
+      },
+      "comment": "Level detail row"
+    },
+    "Status": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Status"
+          }
+        }
+      },
+      "comment": "Level detail row"
+    },
+    "Counts since": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Telt mee sinds"
+          }
+        }
+      },
+      "comment": "Level detail row"
+    },
+    "Your level grows by running kilometers — every kilometer earns a fixed amount of XP. Unlike the three stats above, your level never drops: it's a permanent reflection of what you've built up since you started using the app.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je level groeit door kilometers te lopen — elke kilometer levert vaste XP op. Anders dan de drie stats hierboven daalt je level nooit: het is een blijvende weerspiegeling van wat je hebt opgebouwd sinds je de app begon te gebruiken."
+          }
+        }
+      },
+      "comment": "Level description"
+    },
+    "Every kilometer you run earns XP, regardless of pace.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elke gelopen kilometer levert XP op, ongeacht tempo."
+          }
+        }
+      },
+      "comment": "Level tip"
+    },
+    "Runs from before you first opened the app don't count.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Runs van vóór het moment dat je de app voor het eerst opende tellen niet mee."
+          }
+        }
+      },
+      "comment": "Level tip"
+    },
+    "Every level has its own name and requires a bit more XP than the last.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elk level heeft een eigen naam en vraagt iets meer XP dan het vorige."
+          }
+        }
+      },
+      "comment": "Level tip"
+    },
+    "%d+ %@/week": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d+ %@/week"
+          }
+        }
+      },
+      "comment": "e.g. '50+ km/week'"
+    },
+    "%d %@/week": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d %@/week"
+          }
+        }
+      },
+      "comment": "e.g. '5 km/week'"
+    },
+    "%d points": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d punten"
+          }
+        }
+      },
+      "comment": "Score curve points"
+    },
+    "%d+ runs": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d+ runs"
+          }
+        }
+      },
+      "comment": "e.g. '3+ runs'"
+    },
+    "1 run": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 run"
+          }
+        }
+      },
+      "comment": "Score curve label"
+    },
+    "%d runs": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d runs"
+          }
+        }
+      },
+      "comment": "e.g. '2 runs'"
+    },
+    "%d+ weeks": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d+ weken"
+          }
+        }
+      },
+      "comment": "e.g. '12+ weeks'"
+    },
+    "%@ or faster": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ of sneller"
+          }
+        }
+      },
+      "comment": "e.g. '4:15/km or faster'"
+    },
+    "%@ or slower": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ of trager"
+          }
+        }
+      },
+      "comment": "e.g. '8:00/km or slower'"
+    },
+    "+%d points": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+%d punten"
+          }
+        }
+      },
+      "comment": "e.g. '+20 points'"
+    },
+    "Tempo run (last 7 days)": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tempoloop (laatste 7 dagen)"
+          }
+        }
+      },
+      "comment": "Speed bonus row"
+    },
+    "Interval training (last 7 days)": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Intervaltraining (laatste 7 dagen)"
+          }
+        }
+      },
+      "comment": "Speed bonus row"
+    },
+    "Send Feedback": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feedback sturen"
+          }
+        }
+      }
+    },
+    "Report a bug or suggest a feature": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meld een bug of stel een functie voor"
+          }
+        }
+      }
+    },
+    "Couldn't Open Mail": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kon Mail niet openen"
+          }
+        }
+      }
+    },
+    "Copy Email Address": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kopieer e-mailadres"
+          }
+        }
+      }
+    },
+    "No mail app is set up on this device. You can reach us at %@.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er is geen mail-app ingesteld op dit toestel. Je kunt ons bereiken via %@."
+          }
+        }
+      }
+    },
+    "Plan": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plan"
+          }
+        }
+      }
+    },
+    "Edit Planned Run": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geplande run bewerken"
+          }
+        }
+      },
+      "comment": "Planned run form title"
+    },
+    "New Planned Run": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nieuwe geplande run"
+          }
+        }
+      },
+      "comment": "Planned run form title"
+    },
+    "Save": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opslaan"
+          }
+        }
+      }
+    },
+    "Delete this planned run?": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deze geplande run verwijderen?"
+          }
+        }
+      }
+    },
+    "Delete": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verwijderen"
+          }
+        }
+      }
+    },
+    "Type of run": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Type run"
+          }
+        }
+      }
+    },
+    "e.g. Tempo run, Long run, Recovery run": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "bijv. Tempoloop, Lange duurloop, Herstelloop"
+          }
+        }
+      }
+    },
+    "Target pace": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Doeltempo"
+          }
+        }
+      }
+    },
+    "From": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vanaf"
+          }
+        }
+      },
+      "comment": "Pace range lower bound label"
+    },
+    "To": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tot"
+          }
+        }
+      },
+      "comment": "Pace range upper bound label"
+    },
+    "Use a pace range": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gebruik een tempo-range"
+          }
+        }
+      }
+    },
+    "Notes (optional)": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notities (optioneel)"
+          }
+        }
+      }
+    },
+    "e.g. Include 4x 1km at threshold pace": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "bijv. Neem 4x 1km op tempo op"
+          }
+        }
+      }
+    },
+    "Delete Planned Run": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geplande run verwijderen"
+          }
+        }
+      }
+    },
+    "Upcoming": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aankomend"
+          }
+        }
+      },
+      "comment": "Planned runs section title"
+    },
+    "Past": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afgelopen"
+          }
+        }
+      },
+      "comment": "Planned runs section title"
+    },
+    "No planned runs yet": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nog geen geplande runs"
+          }
+        }
+      }
+    },
+    "Add a run from your own training schedule using the + button above.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voeg een run uit je eigen trainingsschema toe via de +-knop hierboven."
+          }
+        }
+      }
+    },
+    "Not run yet": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nog niet gelopen"
+          }
+        }
+      },
+      "comment": "Planned run status"
+    },
+    "Missed — no matching run found": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gemist — geen bijpassende run gevonden"
+          }
+        }
+      },
+      "comment": "Planned run status"
+    },
+    "Right on target!": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Precies op schema!"
+          }
+        }
+      },
+      "comment": "Planned run status"
+    },
+    "Off target": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Niet op schema"
+          }
+        }
+      }
+    },
+    "The plan": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Het plan"
+          }
+        }
+      }
+    },
+    "What you actually ran": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wat je daadwerkelijk liep"
+          }
+        }
+      }
+    },
+    "Notes": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notities"
+          }
+        }
+      }
+    },
+    "spot on": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "precies goed"
+          }
+        }
+      },
+      "comment": "Pace delta, exactly on target"
+    },
+    "%d sec slower": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d sec trager"
+          }
+        }
+      },
+      "comment": "Pace delta"
+    },
+    "%d sec faster": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d sec sneller"
+          }
+        }
+      },
+      "comment": "Pace delta"
+    },
+    "Edit": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bewerken"
+          }
+        }
+      }
+    },
+    "On target": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Op schema"
+          }
+        }
+      }
+    },
+    "Add %d planned runs to your schedule.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voeg %d geplande runs toe aan je schema."
+          }
+        }
+      },
+      "comment": "Import summary, only new runs"
+    },
+    "Update %d planned runs already in your schedule.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Werk %d al bestaande geplande runs bij."
+          }
+        }
+      },
+      "comment": "Import summary, only updates"
+    },
+    "Add %d new planned runs and update %d already in your schedule.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voeg %d nieuwe geplande runs toe en werk %d bestaande bij."
+          }
+        }
+      },
+      "comment": "Import summary, mix of new and updates"
+    },
+    "Import Planned Runs": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geplande runs importeren"
+          }
+        }
+      }
+    },
+    "Import": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Importeren"
+          }
+        }
+      }
+    },
+    "Update": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Update"
+          }
+        }
+      }
+    },
+    "Show level on Home": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toon level op Home"
+          }
+        }
+      }
+    },
+    "Turns off the level card and level-up celebration, if you'd rather focus on your stats.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verbergt de levelkaart en level-up-viering, als je liever alleen op je stats focust."
+          }
+        }
+      }
+    },
+    "This Week": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deze week"
+          }
+        }
+      },
+      "comment": "Plan week navigation"
+    },
+    "Back to this week": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terug naar deze week"
+          }
+        }
+      }
+    },
+    "No run planned": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geen run gepland"
+          }
+        }
+      }
+    },
+    "No planned runs this week": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geen geplande runs deze week"
+          }
+        }
+      }
+    },
+    "1 day away": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nog 1 dag"
+          }
+        }
+      },
+      "comment": "Planned run countdown"
+    },
+    "%d days away": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nog %d dagen"
+          }
+        }
+      },
+      "comment": "Planned run countdown"
+    },
+    "Home": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Home"
+          }
+        }
+      },
+      "comment": "Tab name"
+    },
+    "No run yet": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nog geen run"
+          }
+        }
+      }
+    },
+    "No runs yet": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nog geen runs"
+          }
+        }
+      }
+    },
+    "Runney Pro": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Runney Pro"
+          }
+        }
+      }
+    },
+    "Unlock levels, badges, and everything that keeps you coming back.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ontgrendel levels, badges, en alles wat je terug laat komen."
+          }
+        }
+      }
+    },
+    "Levels & XP": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Levels & XP"
+          }
+        }
+      }
+    },
+    "Climb through 20 levels as you run.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Klim door 20 levels heen terwijl je loopt."
+          }
+        }
+      },
+      "comment": "Pro feature subtitle"
+    },
+    "Unlock 40+ milestones along the way.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ontgrendel onderweg 40+ mijlpalen."
+          }
+        }
+      },
+      "comment": "Pro feature subtitle"
+    },
+    "Track your all-time bests automatically.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Houd automatisch je all-time records bij."
+          }
+        }
+      },
+      "comment": "Pro feature subtitle"
+    },
+    "Race Readiness": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Racegereedheid"
+          }
+        }
+      },
+      "comment": "Pro feature title"
+    },
+    "Know exactly how ready you are for race day.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weet precies hoe klaar je bent voor de wedstrijddag."
+          }
+        }
+      },
+      "comment": "Pro feature subtitle"
+    },
+    "Planned Runs": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geplande runs"
+          }
+        }
+      },
+      "comment": "Pro feature title"
+    },
+    "Follow your own training schedule, day by day.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Volg je eigen trainingsschema, dag voor dag."
+          }
+        }
+      },
+      "comment": "Pro feature subtitle"
+    },
+    "Weekly Recap": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wekelijkse samenvatting"
+          }
+        }
+      }
+    },
+    "A friendly Sunday summary, right on time.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Een vriendelijke zondagsamenvatting, precies op tijd."
+          }
+        }
+      }
+    },
+    "Yearly": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jaarlijks"
+          }
+        }
+      }
+    },
+    "Monthly": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maandelijks"
+          }
+        }
+      }
+    },
+    "Best value": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beste waarde"
+          }
+        }
+      }
+    },
+    "7-day free trial, then %@/year": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "7 dagen gratis proberen, daarna %@/jaar"
+          }
+        }
+      }
+    },
+    "%@/month": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@/maand"
+          }
+        }
+      }
+    },
+    "Start free trial": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start gratis proefperiode"
+          }
+        }
+      },
+      "comment": "Paywall purchase button"
+    },
+    "Subscribe": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abonneren"
+          }
+        }
+      },
+      "comment": "Paywall purchase button"
+    },
+    "Restore Purchases": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aankopen herstellen"
+          }
+        }
+      }
+    },
+    "Terms of Use": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gebruiksvoorwaarden"
+          }
+        }
+      }
+    },
+    "Preview Paywall (debug)": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paywall bekijken (debug)"
+          }
+        }
+      }
+    },
+    "Level & XP": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Level & XP"
+          }
+        }
+      },
+      "comment": "Pro feature title"
+    },
+    "Unlock with Pro": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ontgrendel met Pro"
+          }
+        }
+      }
+    },
+    "Unlock your full potential": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ontgrendel je volledige potentieel"
+          }
+        }
+      },
+      "comment": "Paywall purchase button"
+    },
+    "You're all unlocked — manage your subscription": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alles is ontgrendeld — beheer je abonnement"
+          }
+        }
+      }
+    },
+    "Unlock levels, badges, and more": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ontgrendel levels, badges, en meer"
+          }
+        }
+      }
+    },
+    "Easy": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rustig"
+          }
+        }
+      },
+      "comment": "Run intensity"
+    },
+    "Medium": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gemiddeld"
+          }
+        }
+      },
+      "comment": "Run intensity"
+    },
+    "Hard": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zwaar"
+          }
+        }
+      },
+      "comment": "Run intensity"
+    },
+    "Intensity": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Intensiteit"
+          }
+        }
+      }
+    },
+    "How this run will look in the weekly overview": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zo zie je deze run terug in het weekoverzicht"
+          }
+        }
+      }
+    },
+    "Nice run!": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Goed gelopen!"
+          }
+        }
+      }
+    },
+    "Let's take a look at how it went.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Laten we kijken hoe het ging."
+          }
+        }
+      }
+    },
+    "Distance & pace": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afstand & tempo"
+          }
+        }
+      }
+    },
+    "distance": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "afstand"
+          }
+        }
+      }
+    },
+    "avg pace": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "gem. tempo"
+          }
+        }
+      }
+    },
+    "duration": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "duur"
+          }
+        }
+      }
+    },
+    "Compared to plan": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vergeleken met plan"
+          }
+        }
+      }
+    },
+    "planned %@": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "gepland %@"
+          }
+        }
+      }
+    },
+    "What this run gave you": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wat deze run je opleverde"
+          }
+        }
+      }
+    },
+    "Nice work!": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Goed gedaan!"
+          }
+        }
+      }
+    },
+    "Every run adds up. Keep it going.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elke run telt mee. Ga zo door."
+          }
+        }
+      }
+    },
+    "Preview Run Recap (debug)": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terugblik bekijken (debug)"
+          }
+        }
+      }
+    },
+    "Show mascot": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toon mascotte"
+          }
+        }
+      }
+    },
+    "Turns off the raccoon in onboarding, celebrations, empty states, and run recaps.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schakelt de wasbeer uit bij onboarding, vieringen, lege staten en terugblikken."
+          }
+        }
+      }
+    },
+    "Race readiness": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Racegereedheid"
+          }
+        }
+      }
+    },
+    "/ 100": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "/ 100"
+          }
+        }
+      }
+    },
+    "%d points closer to race day": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d punten dichter bij de wedstrijddag"
+          }
+        }
+      }
+    },
+    "Every run keeps you on track": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elke run houdt je op koers"
+          }
+        }
+      }
+    },
+    "You're on a %d-week streak. Keep showing up!": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je zit op een streak van %d weken. Blijf het volhouden!"
+          }
+        }
+      }
+    },
+    "Every run builds your streak. Keep showing up!": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elke run bouwt je streak op. Blijf het volhouden!"
+          }
+        }
+      }
+    },
+    "Pace race": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tempo-race"
+          }
+        }
+      }
+    },
+    "You": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jij"
+          }
+        }
+      }
+    },
+    "Tough": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pittig"
+          }
+        }
+      },
+      "comment": "Perceived run effort"
+    },
+    "How did it feel?": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoe voelde het?"
+          }
+        }
+      }
+    },
+    "Tap the raccoon that matches this run": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tik op de wasbeer die bij deze run past"
+          }
+        }
+      }
+    },
+    "I planned a run for you in Runney!": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ik heb een run voor je ingepland in Runney!"
+          }
+        }
+      },
+      "comment": "Share message intro, singular"
+    },
+    "I planned some runs for you in Runney!": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ik heb wat runs voor je ingepland in Runney!"
+          }
+        }
+      },
+      "comment": "Share message intro, plural"
+    },
+    "Open this link on your phone to add it to your schedule:": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open deze link op je telefoon om 'm aan je schema toe te voegen:"
+          }
+        }
+      },
+      "comment": "Share message instruction"
+    },
+    "System": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Systeem"
+          }
+        }
+      },
+      "comment": "Appearance option"
+    },
+    "Light": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Licht"
+          }
+        }
+      },
+      "comment": "Appearance option"
+    },
+    "Dark": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Donker"
+          }
+        }
+      },
+      "comment": "Appearance option"
+    },
+    "Appearance": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weergave"
+          }
+        }
+      }
+    },
+    "\"System\" follows your device's own light/dark setting.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Systeem\" volgt de licht/donker-instelling van je toestel."
+          }
+        }
+      }
+    },
+    "Settings": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Instellingen"
+          }
+        }
+      }
+    },
+    "Personalization": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Personalisatie"
+          }
+        }
+      }
+    },
+    "Name, appearance, background color, mascot": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Naam, uiterlijk, achtergrondkleur, mascotte"
+          }
+        }
+      }
+    },
+    "Training": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Training"
+          }
+        }
+      }
+    },
+    "Distance unit, level display, race goal": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eenheid, levelweergave, wedstrijddoel"
+          }
+        }
+      }
+    },
+    "Notifications": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notificaties"
+          }
+        }
+      }
+    },
+    "Weekly recap reminder": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Herinnering wekelijkse samenvatting"
+          }
+        }
+      }
+    },
+    "Support": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ondersteuning"
+          }
+        }
+      }
+    },
+    "Feedback, restart onboarding": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feedback, onboarding herstarten"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
