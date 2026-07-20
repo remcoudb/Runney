@@ -39,8 +39,12 @@ struct PlannedRunsView: View {
         return store.plannedRuns.filter { $0.date >= startOfToday }
     }
 
-    private var shareMessage: String? {
-        PlannedRunSharing.shareMessage(for: allUpcomingPlannedRuns)
+    private var shareURL: URL? {
+        PlannedRunSharing.shareURL(for: allUpcomingPlannedRuns)
+    }
+
+    private var shareIntroText: String {
+        PlannedRunSharing.shareIntroText(for: allUpcomingPlannedRuns)
     }
 
     private func comparison(for date: Date) -> PlannedRunComparison? {
@@ -57,6 +61,7 @@ struct PlannedRunsView: View {
         NavigationStack {
             ScrollView {
                 VStack(alignment: .leading, spacing: 16) {
+                    header
                     weekNavigationHeader
 
                     if store.plannedRuns.isEmpty {
@@ -74,25 +79,7 @@ struct PlannedRunsView: View {
                 .padding(20)
             }
             .cozyBackground()
-            .navigationTitle("Plan")
-            .navigationBarTitleDisplayMode(.inline)
-            .toolbar {
-                ToolbarItemGroup(placement: .navigationBarTrailing) {
-                    if let shareMessage {
-                        ShareLink(item: shareMessage) {
-                            Image(systemName: "square.and.arrow.up")
-                                .font(.system(size: 17, weight: .semibold))
-                        }
-                    }
-                    Button {
-                        newRunInitialDate = Date()
-                        showsAddForm = true
-                    } label: {
-                        Image(systemName: "plus.circle.fill")
-                            .font(.system(size: 20, weight: .semibold))
-                    }
-                }
-            }
+            .toolbar(.hidden, for: .navigationBar)
             .sheet(isPresented: $showsAddForm) {
                 PlannedRunFormView(initialDate: newRunInitialDate)
             }
@@ -100,6 +87,33 @@ struct PlannedRunsView: View {
                 PlannedRunDetailView(
                     comparison: plannedRun.comparison(against: healthKit.lifetimeRuns)
                 )
+            }
+        }
+    }
+
+    private var header: some View {
+        HStack(spacing: 16) {
+            Image(systemName: "calendar.badge.clock")
+                .foregroundStyle(CozyPalette.textPrimary)
+                .font(.system(size: 18, weight: .semibold))
+            Text("Plan")
+                .font(.system(.title2, design: .rounded, weight: .bold))
+                .foregroundStyle(CozyPalette.textPrimary)
+            Spacer()
+            if let shareURL {
+                ShareLink(item: shareURL, message: Text(shareIntroText)) {
+                    Image(systemName: "square.and.arrow.up")
+                        .font(.system(size: 17, weight: .semibold))
+                        .foregroundStyle(CozyPalette.textPrimary)
+                }
+            }
+            Button {
+                newRunInitialDate = Date()
+                showsAddForm = true
+            } label: {
+                Image(systemName: "plus.circle.fill")
+                    .font(.system(size: 20, weight: .semibold))
+                    .foregroundStyle(CozyPalette.textPrimary)
             }
         }
     }
@@ -271,12 +285,10 @@ private struct PlannedRunRow: View {
     var body: some View {
         HStack(spacing: 14) {
             ZStack {
-                Circle()
-                    .fill(CozyPalette.stamina.opacity(0.12))
-                    .frame(width: 40, height: 40)
                 Image(systemName: "figure.run")
                     .foregroundStyle(CozyPalette.stamina)
-                    .font(.system(size: 15, weight: .semibold))
+                    .font(.system(size: 18, weight: .semibold))
+                    .frame(width: 40, height: 40)
             }
 
             VStack(alignment: .leading, spacing: 6) {
